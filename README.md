@@ -3,9 +3,9 @@ Bible books names in various languages in JSON format
 
 
 ## Usage:
-
-var bookName=  require('bible-book-names');
 ```
+var bookName=  require('bible-book-names');
+
 // index is the number(n'th) of the book in the order of the bible.
 
 var anyBook= bookName['en'][index];  // for english
