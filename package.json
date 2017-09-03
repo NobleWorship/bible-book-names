@@ -1,0 +1,25 @@
+{
+  "name": "bible-book-names",
+  "version": "1.0.0",
+  "description": "Bible books names in various languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NobleWorship/bible-book-names.git"
+  },
+  "keywords": [
+    "bible",
+    "book",
+    "name",
+    "language"
+  ],
+  "author": "xsmael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NobleWorship/bible-book-names/issues"
+  },
+  "homepage": "https://github.com/NobleWorship/bible-book-names#readme"
+}
